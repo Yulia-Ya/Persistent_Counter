@@ -1,3 +1,7 @@
+# Counter with localStorage using React/Redux
+
+This project is a simple counter developed using React and Redux. The main feature of this counter is that the counter value is stored in localStorage, so it persists even after page reloads.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
