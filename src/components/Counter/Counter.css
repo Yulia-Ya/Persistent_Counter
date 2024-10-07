@@ -1,0 +1,55 @@
+.counter-container {
+  border: 2px solid rgb(44, 165, 198);
+  border-radius: 30px;
+  margin: 200px auto;
+  width: 400px;
+  height: 320px;
+}
+
+.counter-title {
+  border: 2px solid rgb(44, 165, 198);
+  margin: 30px auto;
+  border-radius: 20px;
+  width: 90%;
+  height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:  rgb(44, 165, 198);
+  font-size: 50px;
+  font-weight: bold;
+  text-align: center;
+}
+
+  .counter-title-error {
+    color:  rgb(198, 44, 44);
+    font-size: 50px;
+  
+  }
+  .counter-title-ordirnary {
+    color:  rgb(44, 165, 198);
+    font-size: 50px;
+   
+  }
+
+.counter-buttons {
+  border: 2px solid rgb(44, 165, 198);
+  border-radius: 20px;
+  margin: 30px auto;
+  width: 90%;
+  height: 20%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+button {
+  background-color: rgb(44, 165, 198);
+  border-radius: 10px;
+  border: none;
+  /* width: 80px; */
+  width: fit-content;
+  height: 40px;
+  font-size: 40px;
+  font-weight: bold;
+}

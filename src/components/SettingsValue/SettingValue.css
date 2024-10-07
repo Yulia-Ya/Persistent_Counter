@@ -1,0 +1,27 @@
+.counter-settings-container {
+  display: flex;
+  gap: 40px;
+}
+
+.counter-settings-title {
+  color: rgb(44, 165, 198);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.counter-settings-value {
+    border: 2px solid  rgb(44, 165, 198);
+    border-radius: 5px;
+    text-align: center;
+
+   
+}
+.counter-settings-value-error {
+  border: 2px solid  rgb(246, 26, 26);
+  border-radius: 5px;
+  text-align: center;
+  background-color: rgba(207, 100, 100, 0.78);
+
+
+ 
+}
