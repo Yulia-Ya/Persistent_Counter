@@ -15,6 +15,10 @@ This project is a simple counter developed using React and Redux. The main featu
 #### Redux Toolkit – state management
 #### localStorage – data persistence
 
+`Screenshots`
+
+<img width="987" alt="counter" src="https://github.com/user-attachments/assets/172e5b1a-37a2-43f4-b7f6-8c975e3eb546" />
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
