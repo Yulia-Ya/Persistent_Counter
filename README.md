@@ -4,10 +4,10 @@ This project is a simple counter developed using React and Redux. The main featu
 
 Features
 
-✅ Increment and decrement the counter
-✅ Reset functionality
-✅ Automatic state saving in localStorage
-✅ State restoration after page reload
+### Increment and decrement the counter
+### Reset functionality
+### Automatic state saving in localStorage
+### State restoration after page reload
 
 Technologies
 
