@@ -11,9 +11,9 @@ Features
 
 Technologies
 
-React – UI library
-Redux Toolkit – state management
-localStorage – data persistence
+#### React – UI library
+####Redux Toolkit – state management
+####localStorage – data persistence
 
 # Getting Started with Create React App
 
