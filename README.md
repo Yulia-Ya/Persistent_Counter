@@ -2,14 +2,14 @@
 
 This project is a simple counter developed using React and Redux. The main feature of this counter is that the counter value is stored in localStorage, so it persists even after page reloads.
 
-Features
+`Features`
 
 #### Increment and decrement the counter
 #### Reset functionality
 #### Automatic state saving in localStorage
 #### State restoration after page reload
 
-Technologies
+`Technologies`
 
 #### React – UI library
 #### Redux Toolkit – state management
